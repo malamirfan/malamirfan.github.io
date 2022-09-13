@@ -7,6 +7,8 @@
         <video src="Video on 8-23-22 at 2.48 PM.mov" width="320" height="240" controls>
           Video not supported
         </video>
+        <hd2> Biography </hd2>
+        <span>I was born in Los Angeles, CA. My birthday is December 17th.</span>
       </p>
     </div>
     
