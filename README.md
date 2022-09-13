@@ -1,4 +1,5 @@
 # malamirfan.github.io
+<!(DOCTYPE html>
 <div>
   <p>
     <hd1> <strong>Welcome</strong> to my <em>Test</em> <strong>Page</strong>
