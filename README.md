@@ -6,7 +6,7 @@
       <br>
       <hd2> This is <strong>ME</strong>
         <br>
-       <tab> <hd2> Biography </hd2>
+        <tab> </tab> <hd2> Biography </hd2>
         <br>
         <span>I was born in Los Angeles, CA. My birthday is December 17th.</span>
       </p>
